@@ -1,0 +1,10 @@
+# Build artifacts
+bin/
+out/
+*.class
+
+# Windows shortcuts & logs
+*.log
+sources.txt
+.system_generated/
+*.lnk
